@@ -1,0 +1,13 @@
+{
+    "okStatusCode": 200,
+    "createdStatusCode": 201,
+    "noContentStatusCode": 204,
+    "badRequestStatusCode": 400,   
+    "unAuthorizedStatusCode": 401,
+    "forbiddenStatusCode": 403,
+    "recordNotFoundStatusCode": 404,
+    "methodNotAllowedStatusCode": 405,
+    "internalServerErrorStatusCode": 500,
+    "badGatewayStatusCode": 502,
+    "gateWayTimeoutStatusCode": 504
+}
