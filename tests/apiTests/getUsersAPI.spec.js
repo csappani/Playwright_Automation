@@ -29,7 +29,13 @@ test("Create User", async({request})=>{
                 "Accept": "application/json",
                 "authorization": "Bearer "+authToken
             },
-            data: processReqBodyPayload
+            //data: processReqBodyPayload
+            data: {
+                "name": "chiran",
+                "gender": "male",
+                "email": "csappani@gmail.com",
+                "status": "active"
+            }
         }
     );
     console.log(await response.json())

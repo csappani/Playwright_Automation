@@ -1,0 +1,72 @@
+[
+  {
+    id: 8414520,
+    name: 'Adityanandana Devar',
+    email: 'adityanandana_devar@mosciski-kuhn.example',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8414519,
+    name: 'Himadri Sinha',
+    email: 'sinha_himadri@bashirian-lesch.example',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8414033,
+    name: 'Brahmdev Bandopadhyay II',
+    email: 'ii_brahmdev_bandopadhyay@jakubowski.test',
+    gender: 'female',
+    status: 'inactive'
+  },
+  {
+    id: 8414032,
+    name: 'Sharda Varman Sr.',
+    email: 'varman_sharda_sr@greenfelder-considine.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8414030,
+    name: 'Msgr. Aamod Bharadwaj',
+    email: 'bharadwaj_aamod_msgr@bradtke.test',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8414029,
+    name: 'Aditeya Saini',
+    email: 'saini_aditeya@mertz.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8414023,
+    name: 'Gaurang Panicker',
+    email: 'panicker_gaurang@flatley.example',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8414022,
+    name: 'Bhaanumati Iyengar JD',
+    email: 'jd_iyengar_bhaanumati@borer.test',
+    gender: 'female',
+    status: 'inactive'
+  },
+  {
+    id: 8413698,
+    name: 'Alok Trivedi',
+    email: 'alok_trivedi@kutch-harvey.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8413697,
+    name: 'Chakradhar Pandey',
+    email: 'pandey_chakradhar@beahan.test',
+    gender: 'female',
+    status: 'active'
+  }
+]
